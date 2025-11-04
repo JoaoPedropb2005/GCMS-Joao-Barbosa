@@ -1,5 +1,3 @@
-# WebApp
-=======
 # GCMS-Joao-Barbosa.
 
 Repositório para a cadeira de GCMS do IFPE-Recife, 2025.2!
