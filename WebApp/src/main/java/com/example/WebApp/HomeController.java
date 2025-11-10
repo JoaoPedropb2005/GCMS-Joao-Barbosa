@@ -29,5 +29,4 @@ public class HomeController {
     public @ResponseBody String greetinghotfix() {
         return "Hello, hotfix!";
     }
-    
 }
