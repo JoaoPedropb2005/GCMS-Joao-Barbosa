@@ -22,7 +22,7 @@ public class HomeController {
     
     @RequestMapping("/joaopedro")
     public @ResponseBody String greetingjp() {
-        return "Hello, João Pedro!";
+        return "Hello, João Barbosa!";
     }
     
     @RequestMapping("/hotfix")
